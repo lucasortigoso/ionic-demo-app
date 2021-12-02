@@ -1,0 +1,8 @@
+{
+  "name": "Ionic-AWS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e5e2e4f0"
+}
